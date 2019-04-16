@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/E:/Documents/NetBeansProjects/ws-preabs/nbproject/project.xml</file>
+            <file>file:/E:/Documents/NetBeansProjects/ws-preabs/src/java/com/presensi/AbsenCtrl.java</file>
+            <file>file:/E:/Documents/NetBeansProjects/ws-preabs/src/java/com/presensi/AbsenDaoImpl.java</file>
+            <file>file:/E:/Documents/NetBeansProjects/ws-preabs/src/java/com/presensi/AbsenIndo.java</file>
+            <file>file:/E:/Documents/NetBeansProjects/ws-preabs/src/java/com/presensi/Helper.java</file>
+            <file>file:/E:/Documents/NetBeansProjects/ws-preabs/src/java/com/presensi/PegAbsen.java</file>
+            <file>file:/E:/Documents/NetBeansProjects/ws-preabs/nbproject/build-impl.xml</file>
+            <file>file:/E:/Documents/NetBeansProjects/ws-preabs/web/WEB-INF/rest-servlet.xml</file>
+            <file>file:/E:/Documents/NetBeansProjects/ws-preabs/src/java/com/presensi/DatUser.java</file>
+            <file>file:/E:/Documents/NetBeansProjects/ws-preabs/src/java/com/presensi/Config.java</file>
+            <file>file:/E:/Documents/NetBeansProjects/ws-preabs/web/WEB-INF/jboss-web.xml</file>
+            <file>file:/E:/Documents/NetBeansProjects/ws-preabs/nbproject/rest-build.xml</file>
+            <file>file:/E:/Documents/NetBeansProjects/ws-preabs/src/java/com/presensi/AbsenDao.java</file>
+            <file>file:/E:/Documents/NetBeansProjects/ws-preabs/web/META-INF/context.xml</file>
+            <file>file:/E:/Documents/NetBeansProjects/ws-preabs/web/WEB-INF/web.xml</file>
+        </group>
+    </open-files>
+</project-private>
